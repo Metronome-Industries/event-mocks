@@ -16,11 +16,11 @@
   "author": "Serverless, Inc.",
   "license": "Apache-2.0",
   "devDependencies": {
-    "@types/aws-lambda": "^8.10.24",
+    "@types/aws-lambda": "^8.10.75",
     "@types/chai": "^4.1.7",
     "@types/mocha": "^5.2.6",
     "@types/node": "^11.13.4",
-    "aws-lambda": "^0.1.2",
+    "aws-lambda": "^1.0.6",
     "chai": "^4.2.0",
     "mocha": "^8.3.2",
     "ts-mocha": "^6.0.0",
